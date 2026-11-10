@@ -16,7 +16,8 @@
 | --- | --- |
 | [IMPROVES.md](IMPROVES.md) | 八项规则及其原始定义 |
 | [PROMPT.md](PROMPT.md) | 可直接使用的任务模板与自检要求 |
-| [BLUEPRINT.md](BLUEPRINT.md) | PRD 功能模块章节的内容组成、组织方式与编写要求 |
+| [BLUEPRINT.md](BLUEPRINT.md) | PRD 总体编写规范：骨架、跨分区一致性与定稿门槛 |
+| [BLUEPRINT_S01.md](BLUEPRINT_S01.md) | PRD 分区功能规格提示词，与 IMPROVES 配合可独立使用 |
 | [examples/README.md](examples/README.md) | 虚构场景的填写与评审示例 |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 修改、评审与资料边界 |
 | [CHANGELOG.md](CHANGELOG.md) | 版本变化 |
