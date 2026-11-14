@@ -1,5 +1,7 @@
 # BibleTree 任务提示词
 
+> 历史兼容规范：本文件保留给旧版运行副本。新课程驱动编纂使用 [bibletree 提示词包](bibletree/README.md)，不再强制逐层需求/原子规则拆分。新旧输出契约不同，须经独立实现验收后切换；本次不替换业务代码。
+
 BibleTree（把资料、需求与交付计划整理成“产品之书”的工具）使用的六个任务提示词。写作规范见 [SCRIPT](SCRIPT.md)，案例分析见 [TRACE](TRACE.md)，质量底线遵循 [IMPROVES](IMPROVES.md)。
 
 本文是提示词原文的权威版本，对应 SCRIPT 1.2。BibleTree 产品代码内嵌同文运行副本：修改先改本文并记入 CHANGELOG，再同步代码；两处不一致时以本文为准，并应修正代码。文中“Bible”指一个独立的资料库（一本书）。
