@@ -1,5 +1,13 @@
 # 变更记录
 
+## 0.8.0 — 2026-11-15
+
+- 新增独立目录 prd-section/，BLUEPRINT_S01 迁入并重写：增加输入与事实优先级（用户决定 > 定稿正文 > 原型代码行为 > 原型文案 > 草稿 > 截图；范围以上位 PRD 为准；原型种子数据为演示数据）、动笔前的原型拆解清单、九项内容的合格线、R/I 细则（计数等式、同值次序、弹层契约、操作四段、按钮状态矩阵、状态保留表）、禁用词、自检清单，以及原型覆盖表交付物。
+- 新增 prd-section/TEMPLATE.md：分区输出骨架与虚构片段示例。
+- 根目录 BLUEPRINT_S01.md 改为跳转页；IMPROVES、BLUEPRINT 定义不变，BLUEPRINT 与 README 链接指向新位置。
+
+迁移：引用 `BLUEPRINT_S01.md` 的使用方改为 `prd-section/BLUEPRINT_S01.md`；旧路径仅跳转。按 0.4.0 版 S01 写成的分区不自动视为符合本版，需按自检清单复核。
+
 ## 0.7.0 — 2026-11-14
 
 - 新增 bibletree/ 提示词包1.0：CONTRACT、FEATURE、PATCH/SPINE/WEAVE、九项工作流、问答/依据核验、Codex/Teach-in-public集成和三份虚构示例。

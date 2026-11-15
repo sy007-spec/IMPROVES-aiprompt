@@ -1,6 +1,6 @@
 # BLUEPRINT：PRD 总体编写规范
 
-约束整份 PRD 的骨架、跨分区一致性与定稿门槛。质量底线遵循 [IMPROVES](IMPROVES.md)；单个分区（功能模块）的规格写法与九项内容 B-L-U-E-P-R-I-N-T 的定义见 [BLUEPRINT_S01](BLUEPRINT_S01.md)，本文不重复。
+约束整份 PRD 的骨架、跨分区一致性与定稿门槛。质量底线遵循 [IMPROVES](IMPROVES.md)；单个分区（功能模块）的规格写法与九项内容 B-L-U-E-P-R-I-N-T 的定义见 [BLUEPRINT_S01](prd-section/BLUEPRINT_S01.md)，本文不重复。
 
 来源：从一份真实教育产品 PRD 的整体结构与评审问题中抽象，已去除业务资料；示例均为虚构。
 

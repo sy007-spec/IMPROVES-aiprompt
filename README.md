@@ -19,7 +19,7 @@
 | [IMPROVES.md](IMPROVES.md) | 八项规则及其原始定义 |
 | [PROMPT.md](PROMPT.md) | 可直接使用的任务模板与自检要求 |
 | [BLUEPRINT.md](BLUEPRINT.md) | PRD 总体编写规范：骨架、跨分区一致性与定稿门槛 |
-| [BLUEPRINT_S01.md](BLUEPRINT_S01.md) | PRD 分区功能规格提示词，与 IMPROVES 配合可独立使用 |
+| [prd-section/](prd-section/README.md) | PRD 分区功能规格：[BLUEPRINT_S01](prd-section/BLUEPRINT_S01.md) 规范与提示词、[TEMPLATE](prd-section/TEMPLATE.md) 输出骨架；与 IMPROVES 配合可独立使用 |
 | [SCRIPT.md](SCRIPT.md) | 业务内容写作规范与提示词：把台账和零散需求改写成可评审的方案文字，业务规则拆成带唯一编号的原子规则 |
 | [TRACE.md](TRACE.md) | 业务案例因果与变更影响分析提示词 |
 | [BIBLETREE.md](BIBLETREE.md) | BibleTree 工具的六个结构化任务提示词（改写、证据摘录、影响判定、流程评审、需求拆分、原子规则拆分） |
