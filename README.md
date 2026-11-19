@@ -22,6 +22,7 @@
 | [prd-section/](prd-section/README.md) | PRD 分区功能规格：[BLUEPRINT_S01](prd-section/BLUEPRINT_S01.md) 规范与提示词、[TEMPLATE](prd-section/TEMPLATE.md) 输出骨架；与 IMPROVES 配合可独立使用 |
 | [SCRIPT.md](SCRIPT.md) | 业务内容写作规范与提示词：把台账和零散需求改写成可评审的方案文字，业务规则拆成带唯一编号的原子规则 |
 | [TRACE.md](TRACE.md) | 业务案例因果与变更影响分析提示词 |
+| [TASKLIST.md](TASKLIST.md) | 项目任务清单维护规范与提示词：记录「做到/没做/下一步」，让接手者与智能体按序推进协作 |
 | [BIBLETREE.md](BIBLETREE.md) | BibleTree 工具的六个结构化任务提示词（改写、证据摘录、影响判定、流程评审、需求拆分、原子规则拆分） |
 | [examples/README.md](examples/README.md) | 虚构场景的填写与评审示例 |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 修改、评审与资料边界 |
